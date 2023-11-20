@@ -1,1 +1,35 @@
 # Mov-finder
+
+![Mov-finder](./assets/mov-finder2.png)
+
+## Стек технологій
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+## Опис проекту
+
+`"Mov-Finder"` - пошук відео-контенту, розроблений для швидкого та зручного знаходження фільмів в
+Інтернеті, незалежно від того, чи шукаєте новинки, класику кінематографу чи просто щось цікаве для
+перегляду.
+
+`Основні функції:`
+
+1. Популярні та нові фільми: знайомтесь із найпопулярнішими та найновішими фільмами прямо на
+   головній сторінці.
+
+2. Швидкий пошук: дозволяє знаходити та переглядати інформацію про різноманітні фільми та акторів.
+
+3. Детальна інформація: отримуйте повну інформацію про кожен фільм, включаючи тривалість, акторський
+   склад, опис сюжету.
+
+4. Актори та ролі: інформація про акторів та їхні ролі у стрічці.
+
+5. Відгуки: рейтинги від інших користувачів.
+
+`Посилання на сайт:` https://dmytro1117.github.io/Mov-finder/
